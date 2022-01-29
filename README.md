@@ -1,0 +1,3 @@
+- 👋 Hi, I’m TARUNENDRA MALEPATI
+- 👀 I’m interested in being a full stack developer or devops
+- 🌱 I’m currently in Master of science in Computer Science

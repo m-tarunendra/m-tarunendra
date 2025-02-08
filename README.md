@@ -14,6 +14,6 @@ I'm a passionate software developer with a focus on [Software Engineering, web d
 - DevOps practices
 
 ## 💬 Let's connect!
-- [LinkedIn](https://lindein.com/in/malepati-tarunendra)
+- [LinkedIn](www.linkedin.com/in/malepati-tarunendra)
 
 Feel free to reach out for collaborations or just to say hi!
